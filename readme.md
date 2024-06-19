@@ -4,3 +4,5 @@ data
 -> any game csv file
 
 Then run the program using command node validation.js
+
+game - CNZ + MSS
